@@ -1,0 +1,16 @@
+{
+  "name": "pnotify",
+  "version": "1.0.0",
+  "description": "Introduction ============",
+  "main": "jquery.pnotify.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/pnotify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/pnotify/issues"
+  },
+  "homepage": "https://github.com/bolster/pnotify"
+}
